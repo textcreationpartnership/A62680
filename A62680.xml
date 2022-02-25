@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of a pleasant liquor, which dissolves the stone in the bladder or kidneys and brings it away visibly. As likewise whatever gravel may be generated in those parts; ... Only prepared by William Tipping, and to be sold by Mr. Benjamin James, in the broad passage in Three King Court in Lumbard Street, ...</title>
+            <author>Tipping, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1701</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62680</idno>
+            <idno type="STC">Wing T1306B</idno>
+            <idno type="STC">ESTC T114654</idno>
+            <idno type="EEBO-CITATION">99834180</idno>
+            <idno type="PROQUEST">99834180</idno>
+            <idno type="VID">38678</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62680)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38678)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2114:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of a pleasant liquor, which dissolves the stone in the bladder or kidneys and brings it away visibly. As likewise whatever gravel may be generated in those parts; ... Only prepared by William Tipping, and to be sold by Mr. Benjamin James, in the broad passage in Three King Court in Lumbard Street, ...</title>
+                  <author>Tipping, William.</author>
+               </titleStmt>
+               <extent>[2],6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London,</pubPlace>
+                  <date>1701?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38678:1" rendition="simple:additions"/>
+            <pb facs="tcp:38678:2" rendition="simple:additions"/>
+            <pb facs="tcp:38678:2" rendition="simple:additions"/>
+            <pb facs="tcp:38678:3" rendition="simple:additions"/>
+            <pb facs="tcp:38678:3" rendition="simple:additions"/>
+            <pb facs="tcp:38678:4" rendition="simple:additions"/>
+            <pb facs="tcp:38678:4" rendition="simple:additions"/>
+            <pb facs="tcp:38678:5" rendition="simple:additions"/>
+            <pb facs="tcp:38678:5" rendition="simple:additions"/>
+            <pb facs="tcp:38678:6" rendition="simple:additions"/>
+            <pb facs="tcp:38678:6" rendition="simple:additions"/>
+            <pb facs="tcp:38678:7" rendition="simple:additions"/>
+            <pb facs="tcp:38678:7" rendition="simple:additions"/>
+            <pb facs="tcp:38678:8" rendition="simple:additions"/>
+            <pb facs="tcp:38678:8" rendition="simple:additions"/>
+            <pb facs="tcp:38678:9" rendition="simple:additions"/>
+            <pb facs="tcp:38678:9" rendition="simple:additions"/>
+            <pb facs="tcp:38678:10" rendition="simple:additions"/>
+            <pb facs="tcp:38678:10" rendition="simple:additions"/>
+            <pb facs="tcp:38678:11" rendition="simple:additions"/>
+            <pb facs="tcp:38678:11" rendition="simple:additions"/>
+            <pb facs="tcp:38678:12" rendition="simple:additions"/>
+            <pb facs="tcp:38678:12" rendition="simple:additions"/>
+            <p>An Account of A Pleaſant Liquor, WHICH Diſſolves the STONE IN THE Bladder or Kidneys; And brings it away viſibly, AS LIKEWISE Whatever <hi>Gravel</hi> may be gene<g ref="char:EOLhyphen"/>rated in thoſe Parts; alſo eaſes the Pain of the <hi>Cholick;</hi> it being a mild <hi>Anodyne,</hi> pre<g ref="char:EOLhyphen"/>ſently alleviating, and ſoon taking away all theſe Pains, without the leaſt Defect.</p>
+            <p>Only prepared by <hi>William Tipping</hi> and to be Sold by Mr. <hi>Benjamin James,</hi> in <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Paſſage</hi> in <hi>Three King Court</hi> in <hi>Lumbard <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eet</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mr. <hi>John Wakefeild,</hi> in <hi>Watling Street,</hi> the <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of <hi>Friday Street;</hi> and by no other. <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the half Pint, and proportionably to a <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:38678:13" rendition="simple:additions"/>
+            <pb facs="tcp:38678:13" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:38678:14" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:38678:14" rendition="simple:additions"/>
+            <head>An Account of a Pleaſant <hi>Liquor,</hi> which Diſſolves the <hi>Stone</hi> in the <hi>Bladder</hi> or <hi>Kidneys,</hi> and brings it away viſibly.</head>
+            <p>THE Author does not make this Publication, either to get himſelf a Name, or to Amuſe the World with a Fiction, of what has been thought Im<g ref="char:EOLhyphen"/>poſſible; he relates only Matter of Fact, with ſuch clear and ſenſible Evidence as is undeniable. He is no Phyſician, nor does he know any thing of Phyſick, more than the Experience he has had by this Medicine, and by Providence diſcovered this rare Secret, unknown to all the World beſides; for he has reaſon to believe ſome things in the Compoſition were never uſed in Phyſick. Its Virtues are as follows.</p>
+            <div type="part">
+               <head>For the Stone.</head>
+               <p>Any Perſon that is troubled with either Stone or Gravel in the Bladder or Kidneys, upon taking this Medicine, re<g ref="char:EOLhyphen"/>ceives immediate Eaſe from all Pains attending thoſe Diſ<g ref="char:EOLhyphen"/>tempers; unleſs it be from a Stone either in the <hi>Pelvis</hi> of the Kidneys, or at the Neck of the Bladder or otherwhere, fret<g ref="char:EOLhyphen"/>ting the Parts, or obſtructing the Urinary Paſſages, and ſo fixed, that it is not to be removed without Force, or diſ<g ref="char:EOLhyphen"/>ſolved without time; in which caſe, it may require 2 or 3 Hours time to looſen it, which it generally does in that time effectually, and ſo mitigates the Pain by degrees, and
+<pb n="2" facs="tcp:38678:15"/> in a ſhort time after, according to the Magnitude of the Stone, being conſtantly taken as directed, makes a perfect Cure; and daily and viſibly ſhews its Effects, by bringing away with the Urine, the Stone diſſolved, which plainly appears to be ſuch, if it be ſuffered to ſettle at the Bottom of a Vial, and the Water be poured off gently by Inclination; for when the Matter that remains at the bottom has ſtood till it is dry, you will find it to be a hard concreted Sub<g ref="char:EOLhyphen"/>ſtance; the ſame with the <hi>Calculi</hi> or Stones uſually extract<g ref="char:EOLhyphen"/>ed from the Bladder by <hi>Lithotomiſts.</hi> This may be ſeen likewiſe if you filtrate the Urine through a brown Pa<g ref="char:EOLhyphen"/>per.</p>
+               <p>Becauſe the Author would give undeniable Satisfacti<g ref="char:EOLhyphen"/>on to any that ſhould doubt hereof, he deſires that any Pa<g ref="char:EOLhyphen"/>tient, who has been ſearched and found to have a Stone, would try his Medicine, and they will quickly ſee a Diſſo<g ref="char:EOLhyphen"/>lution of the ſame, and in a ſhort time after a perfect Cure.</p>
+               <p>The Medicine is ſo certain, that where there is no ſuch Diſſolution, it may be concluded there is no Stone, for ma<g ref="char:EOLhyphen"/>ny have fancied they have had a Stone, when they have had none, there be<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g ſome other Diſtempers that have like Symptoms.</p>
+               <p>The Stone has been obſerved to come away generally of a light Buff Colour, ſometimes of a dark Colour inclining to Red, ſometimes of a Blood Red, but this very ſeldom; ſometimes like fine white Sand, ſhining. When it comes in any of theſe Manners, it will appear full of little ſhining Particles like Silver. Sometimes it comes very much like Chalk. Sometimes likewiſe the Water being very foul, there will be nothing ſeen but a muddy Sediment, either of a White or Reddiſh Colour, of which likewiſe ſome Particles will ſhine when dried. But this white Foul<g ref="char:EOLhyphen"/>neſs will be ſeen in the Water of ſome Perſons, tho' they have not taken this Medicine.</p>
+               <p>Alſo ſome have a plain Diſſolution of the Stone, but that is only when there is a ſoft Stone after a Fit, but when this is taken, it comes away in greater Quantities, it never cea<g ref="char:EOLhyphen"/>ſing to bring it away more or leſs every day.</p>
+               <pb facs="tcp:38678:15" rendition="simple:additions"/>
+               <pb facs="tcp:38678:16" rendition="simple:additions"/>
+               <pb facs="tcp:38678:16" rendition="simple:additions"/>
+               <pb facs="tcp:38678:17" rendition="simple:additions"/>
+               <pb n="3" facs="tcp:38678:17"/>
+               <p>Sometimes a large Stone in the Kidneys has been ac<g ref="char:EOLhyphen"/>companied with a great black Foulneſs in the Urine; and in this Caſe, the Diſſolution of the Stone has not been viſible for ſome time; nay, ſome have taken the Medicine three Months before it had its viſible <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fect, tho' it generally does in a few days.</p>
+               <p>Neither will the Diſſolution be very viſible, where there is an Ulcer cauſed by a ragged Stone fretting the Part; but the Matter that comes from the Ulcer, will be ſomething changed in its Colour, upon taking this Medicine; and ſome<g ref="char:EOLhyphen"/>times you will ſee large ſtreaks of the Stony Subſtance.</p>
+               <p>Some Stones will be perfectly diſſolved and brought away in a few days; others, according to their Hardneſs and Largeneſs, may require as many Months; but there has been none ſo hard, or ſo large, but have been brought away in time; the Patient generally having Eaſe at the firſt taking of this Medicine, and the Satisfaction of ſeeing a Quantity of the Stone, more or leſs, coming from him daily.</p>
+            </div>
+            <div type="part">
+               <head>Gravel.</head>
+               <p>In all ſudden Fits of the Gravel, without any other Matter or Cauſe, I ever obſerved that five Doſes at moſt compleated the Cure, tho' ſome that have been afflicted a conſiderable time, full of crude Matter mixed with Gravel, and perhaps a Stone, may take up a longer time.</p>
+            </div>
+            <div type="part">
+               <head>The Cholick.</head>
+               <p>As for the tormenting Pain of the Cholick, I ever found it went off on the firſt taking, except it proceeded from the Stone or Gravel, and then it may require a longer time. A great many think they have the Cholick when real<g ref="char:EOLhyphen"/>ly the Grievance is occaſioned from the Stone and Gravel. I have known a great many afflicted with that Diſtemper at times, for ſome Years. Though this Water takes off their
+<pb n="4" facs="tcp:38678:18"/> Pains for the preſent, yet it often returns again. Several would not allow it was occaſioned by the Stone or Gravel, though through my Perſwaſion, they kept to it, as for thoſe Diſtempers which they then found to be their Grievance; and by its clearing thoſe Paſſages, they were wholly deliver<g ref="char:EOLhyphen"/>ed from that miſerable Diſtemper. I am ſatisfied, that the Obſtruction of the Paſſages by Stone or Gravel, is general<g ref="char:EOLhyphen"/>ly the occaſion of the Cholick.</p>
+               <p>Likewiſe thoſe who are conſtantly afflicted, muſt take it not only for preſent Eaſe, but take as directed for the Stone; which if it be their Grievance, it will be perceived in their Water. I am well aſſured, if this is obſerved by People, thouſands will be delivered from thoſe miſerable Pains, both in Stomach and Bowels, which they have groaned un<g ref="char:EOLhyphen"/>der for many Years.</p>
+            </div>
+            <div type="part">
+               <head>Rheumatiſm and Gout.</head>
+               <p>As to the Rheumatiſm and Gout, I cannot but take no<g ref="char:EOLhyphen"/>tice of the wonderful Effect it has upon them, in giving im<g ref="char:EOLhyphen"/>mediate Eaſe, and reſtoring ſoon after the uſe of Limbs to thoſe that before were Helpleſs. I muſt confeſs, as to theſe two Particulars, I have had no great Experience, tho' for certain ſeveral have been cured, therefore for that reaſon I recommend it to the World, not queſtioning but it will prove Effectual, to the Good of many.</p>
+            </div>
+            <div type="part">
+               <head>Directions to take it.</head>
+               <p>Thoſe that are troubled with Stone or Gravel, are to take two Spoonfuls every other Morning Faſting, or if there be Occaſion, every Morning in as much White-wine. Thoſe whoſe Water is wholly ſtopt, may take it every hour, or once in 2 hours the ſame quantity each Doſe, except Children, who are to take a leſs Quantity. And in a few hours they will ſee the Effects of it in their Water, either by perfect Stone, or a thick Sediment, (for ſome Stones come away no otherwiſe)
+<pb facs="tcp:38678:18" rendition="simple:additions"/>
+                  <pb facs="tcp:38678:19" rendition="simple:additions"/>
+                  <pb n="5" facs="tcp:38678:19"/> or elſe Gravel, which will be reddiſh, not unlike to Brick<g ref="char:EOLhyphen"/>duſt. This generally comes away in great Quantities, and for the moſt part the firſt time of taking the Medicine.</p>
+               <p>For other Diſtempers it may be taken alone.</p>
+               <p>For the Cholick, take two large Spoonfuls in the Fit, and if it does not go off in an hours time, then take two or three Spoonfuls more; I have very rarely known it miſs at firſt taking.</p>
+               <p>For a Rheumatiſm, Gout, or other Pains either in the Limbs or Bowels, take three Spoonfuls Morning and Evening, or oftner if there be occaſion.</p>
+               <p>I have in my foregoing Diſcourſe given an Account in ge<g ref="char:EOLhyphen"/>neral of the Water working on the Stone, and other Grie<g ref="char:EOLhyphen"/>vances; but as there are ſeveral different Concurrences in Nature, ſo conſequently it will not have the ſame Effect on all. I deſign to ſpeak to ſome of them, and ſome other things, which I really believe will be for the publick Good.</p>
+               <p>As I have ſaid, it gives Eaſe for the Stone, at the firſt ta<g ref="char:EOLhyphen"/>king, which it certainly does, if the Pains are occaſioned by Wind, which is uſually the cauſe of Fits.</p>
+               <p>Some Stones are ſo placed, that it is not always entirely effectual; ſome are very much afflicted with the Stone, as to be lay'd up ſome Months or Years, being full of crude Mat<g ref="char:EOLhyphen"/>ter, and ſubject to Vomit; which Illneſs, in time, this Re<g ref="char:EOLhyphen"/>medy will remove, and give them almoſt, if not entire, Eaſe, and ſoon after a Cure. To thoſe that are thus afflicted, it generally gives two or three Stools a day, their Excrements being of an oily Subſtance, which will ſo continue till their Diſtemper is gone off: They will find in this caſe, their Strength to encreaſe. This kind of Laxativeneſs affects none but what are ſo afflicted.</p>
+               <p>I have found ſeveral to whom it has given Eaſe, that have imagined they have been cured, and have left it off; for which reaſon it ſoon after <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>urned again as violent as ever. Therefore, my Advice to ſuch, is not to leave it off, as long as there is any appearance of the Stone in their Water; for if there be any remainder of the Stone, it will ſoon contract againe, which otherwiſe it may not do.</p>
+               <p>Now, all the ill Conveniency that in any caſe can be found
+<pb n="6" facs="tcp:38678:20" rendition="simple:additions"/> in taking this Water, is this, it will ſet into ſome Stones, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as to make them rough, which may cauſe for a time ſome lit<g ref="char:EOLhyphen"/>tle Pain; alſo in leſſening the Stone, it preſſes near the Neck of the Bladder, which likewiſe may cauſe Pain, yet thi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> rarely happens, for moſt Stones diſſolve without Pain. I<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> alſo couches the Stone, by taking away the Wind, that might otherwiſe force it into the Neck of the Bladder, wher<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it uſually cauſes much Pain.</p>
+               <p>☞ For the Stone or Gravel, for which I gave a general Direction before, but not finding it ſo agreeable in ſome Particulars, take theſe following Hints as an Addition, In ſome Caſes where the Cauſe is violent, take it Morning and Evening, and oftener if you ſee occaſion; by ſome it is found beſt to take it in the Evening, though many Acidents may fall out, a particular Direction for taking it cannot ſo nicely be given; where fore I recommend it to be taken as the Party grieved finds it beſt to anſwer his End, in operat<g ref="char:EOLhyphen"/>ing on the Stone, <hi>&amp;c.</hi> It is found by Experience that a Doſe taken, will work upon the Stone five or ſix hours before it looſes its Virtue, though the Particles of the Stone do not come away preſently, yet in ſome Caſes it will ſo do three or four days together after the Doſe is taken: And they that take it when the Fit is upon them, to take away the Fit, may do it as often as they pleaſe, according as they find the Effect of it anſwer their Purpoſe. But when this is done, they may take it in a much leſs Proportion, as to their uſual Doſe: If White-wine be too ſharp or diſtaſtful to any one, it may be taken alone, or in any Liquor not ſubject to cauſe Windyneſs, or binding the Body; and not to Eat or Drink in an hour or two after, yet may ſafely go about any Buſineſs abroad, or ſtay at home at their Pleaſure.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:38678:20" rendition="simple:additions"/>
+            <pb facs="tcp:38678:21" rendition="simple:additions"/>
+            <pb facs="tcp:38678:21" rendition="simple:additions"/>
+            <pb facs="tcp:38678:22" rendition="simple:additions"/>
+            <pb facs="tcp:38678:22" rendition="simple:additions"/>
+            <pb facs="tcp:38678:23" rendition="simple:additions"/>
+            <pb facs="tcp:38678:23" rendition="simple:additions"/>
+            <pb facs="tcp:38678:24" rendition="simple:additions"/>
+            <pb facs="tcp:38678:24" rendition="simple:additions"/>
+            <pb facs="tcp:38678:25" rendition="simple:additions"/>
+            <pb facs="tcp:38678:25" rendition="simple:additions"/>
+            <pb facs="tcp:38678:26" rendition="simple:additions"/>
+            <pb facs="tcp:38678:26" rendition="simple:additions"/>
+            <pb facs="tcp:38678:27" rendition="simple:additions"/>
+            <pb facs="tcp:38678:27" rendition="simple:additions"/>
+            <pb facs="tcp:38678:28" rendition="simple:additions"/>
+            <pb facs="tcp:38678:28" rendition="simple:additions"/>
+            <pb facs="tcp:38678:29" rendition="simple:additions"/>
+            <pb facs="tcp:38678:29" rendition="simple:additions"/>
+            <pb facs="tcp:38678:30" rendition="simple:additions"/>
+            <pb facs="tcp:38678:30" rendition="simple:additions"/>
+            <pb facs="tcp:38678:31" rendition="simple:additions"/>
+            <pb facs="tcp:38678:31" rendition="simple:additions"/>
+            <pb facs="tcp:38678:32" rendition="simple:additions"/>
+            <pb facs="tcp:38678:32" rendition="simple:additions"/>
+            <pb facs="tcp:38678:33" rendition="simple:additions"/>
+            <pb facs="tcp:38678:33" rendition="simple:additions"/>
+            <pb facs="tcp:38678:34"/>
+         </div>
+      </body>
+   </text>
+</TEI>
